@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rush-portfolio/static/css/main.6f7d7d7f.chunk.css",
+    "main.js": "/rush-portfolio/static/js/main.a0e7cbe7.chunk.js",
+    "main.js.map": "/rush-portfolio/static/js/main.a0e7cbe7.chunk.js.map",
+    "runtime-main.js": "/rush-portfolio/static/js/runtime-main.789ec424.js",
+    "runtime-main.js.map": "/rush-portfolio/static/js/runtime-main.789ec424.js.map",
+    "static/css/2.3c0b593e.chunk.css": "/rush-portfolio/static/css/2.3c0b593e.chunk.css",
+    "static/js/2.2bab1a51.chunk.js": "/rush-portfolio/static/js/2.2bab1a51.chunk.js",
+    "static/js/2.2bab1a51.chunk.js.map": "/rush-portfolio/static/js/2.2bab1a51.chunk.js.map",
+    "static/js/3.7a1d7882.chunk.js": "/rush-portfolio/static/js/3.7a1d7882.chunk.js",
+    "static/js/3.7a1d7882.chunk.js.map": "/rush-portfolio/static/js/3.7a1d7882.chunk.js.map",
+    "index.html": "/rush-portfolio/index.html",
+    "static/css/2.3c0b593e.chunk.css.map": "/rush-portfolio/static/css/2.3c0b593e.chunk.css.map",
+    "static/css/main.6f7d7d7f.chunk.css.map": "/rush-portfolio/static/css/main.6f7d7d7f.chunk.css.map",
+    "static/js/2.2bab1a51.chunk.js.LICENSE.txt": "/rush-portfolio/static/js/2.2bab1a51.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/rush-portfolio/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.789ec424.js",
+    "static/css/2.3c0b593e.chunk.css",
+    "static/js/2.2bab1a51.chunk.js",
+    "static/css/main.6f7d7d7f.chunk.css",
+    "static/js/main.a0e7cbe7.chunk.js"
+  ]
+}
